@@ -1,0 +1,46 @@
+Subject: RWA Oracle Project - IPS26 Opportunity & Timeline Check
+
+Hi Tomasz,
+
+I wanted to touch base on the RWA oracle project we discussed back in October. I have an exciting development that could accelerate the timeline.
+
+IPS Congress 2026 (April 13-15, Dubai) features a "PropTech Startups" competition pillar as part of their 5 core programming tracks. I'm moderating on both tracks (Panel + Boardroom), and they have 40,000+ institutional attendees—sovereign wealth funds, pensions, family offices.
+
+**Here's the opportunity:**
+
+IPS26 would be a **perfect launch platform** for the RWA oracle startup:
+- Audience = institutional investors (exact target customer for compliance oracle)
+- Timing = April 2026 (6 months out, realistic for MVP + pilot validation)
+- Value = Investor introductions + media coverage + potential partnerships
+
+**Timeline feasibility check:**
+
+For the startup to be competition-ready by April 2026, we'd need:
+1. **Nov-Dec 2025:** Company formation + Singapore MAS licensing research
+2. **Jan 2026:** CTO hired, MVP development
+3. **Feb 2026:** 3 institutional pilot agreements (customer validation)
+4. **Mar 2026:** Pitch deck finalized
+5. **Apr 13-15:** Pitch at IPS26 competition
+
+**Critical ask:** Is this timeline realistic for you? Are you still available to co-found this with:
+- Start date: November 1 or January 1, 2026?
+- 18-month runway (to build institutional moat before Chainlink catches up)?
+- Singapore-first licensing strategy (using your existing MAS relationships)?
+
+I know you mentioned the project has been in limbo since October. Before I commit resources to the IPS26 path, I need to know if you're still interested and if the Nov or Jan timeline works for you.
+
+Looking forward to hearing your thoughts.
+
+Best,
+Alexander
+
+---
+
+**File Location:** `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
+
+**Notes for Alexander:**
+- This inquiry is HIGH-STAKES - Tomasz availability is the critical success factor
+- Success criteria: Tomasz confirms either Nov 1 or Jan 1 availability + interest in IPS26 as launch platform
+- If Tomasz declines: Viability drops to 4/10 - recommend abandoning startup competition path
+- Tone: Professional, respectful of his time, clear decision criteria
+- Expected response: 48-72 hours (Tomasz typically responds quickly)

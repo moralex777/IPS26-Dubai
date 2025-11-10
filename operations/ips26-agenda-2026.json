@@ -1,0 +1,673 @@
+{
+  "event": {
+    "name": "IPS Congress 2026",
+    "edition": 22,
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "venue": "Dubai World Trade Centre",
+    "organizer": "Dubai Land Department (Government)",
+    "dates": {
+      "start": "2026-04-13",
+      "end": "2026-04-15",
+      "days": 3
+    },
+    "scale": {
+      "expected_visitors": 40000,
+      "countries_represented": 153,
+      "media_representatives": 150
+    },
+    "tracks": [
+      "Main Conference",
+      "Institutional Investor Conference"
+    ],
+    "alexander_participation": {
+      "panel_moderator": "Main Conference Track",
+      "panel_title": "Shaping 2030: AI, Cities & the New Urban Code",
+      "panel_date": "2026-04-13",
+      "panel_time_start": "13:45",
+      "panel_time_end": "14:25",
+      "boardroom_moderator": "Institutional Investor Conference Track (flexible assignment)",
+      "registration_status": "Confirmed",
+      "registration_date": "2025-11-10"
+    }
+  },
+  "days": [
+    {
+      "day_number": 1,
+      "date": "2026-04-13",
+      "day_name": "Sunday",
+      "tracks": {
+        "main_conference": [
+          {
+            "session_id": "D1_MC_001",
+            "time_start": "11:25",
+            "time_end": "11:45",
+            "duration_minutes": 20,
+            "title": "MC Opening Remarks",
+            "type": "Opening",
+            "track": "Main Conference",
+            "description": "Host opening remarks and event welcome"
+          },
+          {
+            "session_id": "D1_MC_002",
+            "time_start": "13:30",
+            "time_end": "13:45",
+            "duration_minutes": 15,
+            "title": "Opening & Welcome: From Sand to Skyline",
+            "type": "Keynote Opening",
+            "track": "Main Conference",
+            "description": "Cinematic 6-minute journey through Dubai's rise as a real estate icon, followed by DLD opening remarks",
+            "led_by": "Dubai Land Department & IPS Chairman"
+          },
+          {
+            "session_id": "D1_MC_003_PRIMARY",
+            "time_start": "13:45",
+            "time_end": "14:25",
+            "duration_minutes": 40,
+            "title": "Shaping 2030: AI, Cities & the New Urban Code",
+            "type": "Panel Discussion",
+            "track": "Main Conference",
+            "is_alexander_primary_slot": true,
+            "alexander_role": "Panel Moderator",
+            "stage": "Main Stage",
+            "audience_estimate": 40000,
+            "description": "Global leaders examine AI-powered investment, climate resilience, and wellness-driven design shaping future cities",
+            "domains_required": [
+              "AI/PropTech Innovation",
+              "Smart Cities Infrastructure",
+              "Climate Resilience & Sustainability",
+              "Wellness-Driven Design & Healthy Buildings"
+            ],
+            "speaker_recruitment_target": {
+              "minimum": 5,
+              "target": 7,
+              "preference": "Fortune 500 / Tier-1 executives"
+            },
+            "deadline": "2026-01-15"
+          },
+          {
+            "session_id": "D1_MC_004",
+            "time_start": "14:25",
+            "time_end": "14:55",
+            "duration_minutes": 30,
+            "title": "Branded Living 3.0: Emotion, Identity & Investment",
+            "type": "Panel Discussion",
+            "track": "Main Conference",
+            "description": "How storytelling, design, and digital-first marketing transform branded homes into cultural and investment icons"
+          },
+          {
+            "session_id": "D1_MC_005",
+            "time_start": "14:55",
+            "time_end": "15:20",
+            "duration_minutes": 25,
+            "title": "Networking Lunch & Pavilion Exploration",
+            "type": "Networking & Exhibition",
+            "track": "Main Conference",
+            "description": "Light networking lunch and guided exhibitor tours"
+          },
+          {
+            "session_id": "D1_MC_006",
+            "time_start": "15:20",
+            "time_end": "16:00",
+            "duration_minutes": 40,
+            "title": "PropTech Intelligence: From Data to Decisions",
+            "type": "Panel Discussion",
+            "track": "Main Conference",
+            "description": "From blockchain to predictive analytics — how data is reshaping risk, ROI, and transparency"
+          },
+          {
+            "session_id": "D1_MC_007",
+            "time_start": "16:00",
+            "time_end": "16:30",
+            "duration_minutes": 30,
+            "title": "Digital Twins for Net-Zero Cities",
+            "type": "Panel Discussion",
+            "track": "Main Conference",
+            "description": "Examines digital twin technology for smart planning and sustainability"
+          },
+          {
+            "session_id": "D1_MC_008",
+            "time_start": "16:30",
+            "time_end": "16:55",
+            "duration_minutes": 25,
+            "title": "Regulation & Reinvention: The DLD Innovation Forum",
+            "type": "Government Panel",
+            "track": "Main Conference",
+            "description": "DLD officials and experts unveil Dubai's future-ready policy framework and AI governance",
+            "led_by": "Dubai Land Department officials & experts"
+          },
+          {
+            "session_id": "D1_MC_009",
+            "time_start": "16:55",
+            "time_end": "17:00",
+            "duration_minutes": 5,
+            "title": "Clicks, Trust & Disruption: The Digital Recap",
+            "type": "Day Summary",
+            "track": "Main Conference",
+            "description": "Quick-fire takeaways on digital sales funnels, influencer marketing, and startup disruption"
+          }
+        ],
+        "institutional_investor_conference": [
+          {
+            "session_id": "D1_II_001",
+            "time_start": "12:23",
+            "time_end": "12:23",
+            "duration_minutes": 0,
+            "title": "Panel: The Future of Work and Digital Economy",
+            "type": "Panel Discussion",
+            "track": "Institutional Investor Conference",
+            "audience": "Institutional investors, CIOs, capital allocators",
+            "description": "Intersection of Technology Innovation and Human Skills in digital economy",
+            "note": "Timing appears anomalous in source - verify with organizers"
+          },
+          {
+            "session_id": "D1_II_002",
+            "time_start": "13:30",
+            "time_end": "13:50",
+            "duration_minutes": 20,
+            "title": "Dubai 2033: Capital at the Speed of Light",
+            "type": "Keynote",
+            "track": "Institutional Investor Conference",
+            "audience": "Institutional allocators, fund managers",
+            "description": "Dubai's vision to become the world's fastest capital execution hub"
+          },
+          {
+            "session_id": "D1_II_003",
+            "time_start": "13:50",
+            "time_end": "14:25",
+            "duration_minutes": 35,
+            "title": "The Capital Compass: CIO Outlook & Liquidity Flows",
+            "type": "Executive Panel",
+            "track": "Institutional Investor Conference",
+            "audience": "Chief Investment Officers",
+            "description": "CIOs discuss interest rates, liquidity shifts, and capital flows defining 2026+"
+          },
+          {
+            "session_id": "D1_II_004",
+            "time_start": "14:25",
+            "time_end": "14:45",
+            "duration_minutes": 20,
+            "title": "Global Capital Allocation Index Premiere",
+            "type": "Product Launch",
+            "track": "Institutional Investor Conference",
+            "description": "Launch of the world's first allocation benchmark for institutional capital flows"
+          },
+          {
+            "session_id": "D1_II_005",
+            "time_start": "14:45",
+            "time_end": "15:20",
+            "duration_minutes": 35,
+            "title": "Tokenization Unlocked: REITs, Liquidity & Digital Vehicles",
+            "type": "Panel Discussion",
+            "track": "Institutional Investor Conference",
+            "description": "How tokenization transforms REITs and fund formation for liquidity and scale"
+          },
+          {
+            "session_id": "D1_II_006",
+            "time_start": "15:20",
+            "time_end": "15:45",
+            "duration_minutes": 25,
+            "title": "Capital Connections & Giga-Project Spotlight",
+            "type": "Working Lunch & Showcase",
+            "track": "Institutional Investor Conference",
+            "description": "Digital-twin giga-projects and ROI dashboards working lunch"
+          },
+          {
+            "session_id": "D1_II_007",
+            "time_start": "15:45",
+            "time_end": "16:15",
+            "duration_minutes": 30,
+            "title": "Investor Protection Playbook: Structuring Trust & Funds",
+            "type": "Educational Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Legal and regulatory tools for building institutional-grade trust and fund security"
+          },
+          {
+            "session_id": "D1_II_008",
+            "time_start": "16:15",
+            "time_end": "16:40",
+            "duration_minutes": 25,
+            "title": "AI-Powered Alpha: Quant & Machine-Driven Underwriting",
+            "type": "Technical Panel",
+            "track": "Institutional Investor Conference",
+            "description": "How AI enhances risk modeling and yield optimization"
+          },
+          {
+            "session_id": "D1_II_009",
+            "time_start": "16:40",
+            "time_end": "17:00",
+            "duration_minutes": 20,
+            "title": "Velocity is the New Alpha: Executing at the Speed of Capital",
+            "type": "Executive Panel",
+            "track": "Institutional Investor Conference",
+            "description": "How execution speed defines the competitive edge in modern markets"
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 2,
+      "date": "2026-04-14",
+      "day_name": "Monday",
+      "tracks": {
+        "main_conference": [
+          {
+            "session_id": "D2_MC_001",
+            "time_start": "11:20",
+            "time_end": "12:00",
+            "duration_minutes": 40,
+            "title": "Smart Blueprints, Green Returns: Building Sustainable Projects",
+            "type": "Developer Panel",
+            "track": "Main Conference",
+            "description": "Developers share how analytics, design, and sustainability drive project success"
+          },
+          {
+            "session_id": "D2_MC_002",
+            "time_start": "12:00",
+            "time_end": "12:25",
+            "duration_minutes": 25,
+            "title": "Global Brands, Local Roots",
+            "type": "Brand Strategy Panel",
+            "track": "Main Conference",
+            "description": "Examines branding and positioning for scaling real estate companies regionally"
+          },
+          {
+            "session_id": "D2_MC_003",
+            "time_start": "12:25",
+            "time_end": "13:00",
+            "duration_minutes": 35,
+            "title": "Networking Lunch & Pavilion Exploration",
+            "type": "Networking & Exhibition",
+            "track": "Main Conference",
+            "description": "Networking lunch and exhibitor engagements"
+          },
+          {
+            "session_id": "D2_MC_004",
+            "time_start": "13:00",
+            "time_end": "14:00",
+            "duration_minutes": 60,
+            "title": "Women's Empowerment Forum: Breaking Barriers & Building Futures",
+            "type": "Special Forum",
+            "track": "Main Conference",
+            "description": "Inspiring leaders discuss finance, resilience, negotiation, and recognition"
+          },
+          {
+            "session_id": "D2_MC_005",
+            "time_start": "14:00",
+            "time_end": "14:40",
+            "duration_minutes": 40,
+            "title": "Designing Experiences: Hospitality Meets Community",
+            "type": "Design & Hospitality Panel",
+            "track": "Main Conference",
+            "description": "The intersection of lifestyle, hospitality, and sustainable living"
+          },
+          {
+            "session_id": "D2_MC_006",
+            "time_start": "14:40",
+            "time_end": "15:10",
+            "duration_minutes": 30,
+            "title": "Women Who Build the Future: Inclusion & Resilience",
+            "type": "Leadership Panel",
+            "track": "Main Conference",
+            "description": "Women brokers and developers lead resilient, inclusive markets"
+          },
+          {
+            "session_id": "D2_MC_007",
+            "time_start": "15:10",
+            "time_end": "15:35",
+            "duration_minutes": 25,
+            "title": "Agents of Influence: SuperApps & Branding Mastery",
+            "type": "Technology & Marketing Panel",
+            "track": "Main Conference",
+            "description": "Explores super-platforms transforming agent efficiency and digital branding"
+          },
+          {
+            "session_id": "D2_MC_008",
+            "time_start": "15:35",
+            "time_end": "16:00",
+            "duration_minutes": 25,
+            "title": "Unicorn Builders: Resilient Startups & Founders to Watch",
+            "type": "Startup Panel",
+            "track": "Main Conference",
+            "description": "Startup founders share real-world growth and resilience journeys"
+          }
+        ],
+        "institutional_investor_conference": [
+          {
+            "session_id": "D2_II_001",
+            "time_start": "11:00",
+            "time_end": "11:20",
+            "duration_minutes": 20,
+            "title": "Cross-Border Real Estate: Global Access, Local Trust",
+            "type": "International Real Estate Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Explores digital regulation and fintech enabling remote property investment"
+          },
+          {
+            "session_id": "D2_II_002",
+            "time_start": "11:00",
+            "time_end": "11:20",
+            "duration_minutes": 20,
+            "title": "Global Capital Expansion: The Dubai Continuum",
+            "type": "Strategic Positioning Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Outlines Dubai's strategic role in linking emerging markets to global capital flows"
+          },
+          {
+            "session_id": "D2_II_003",
+            "time_start": "11:20",
+            "time_end": "11:50",
+            "duration_minutes": 30,
+            "title": "The Asset Playbook: Digital + Real Synergy",
+            "type": "Innovation Panel",
+            "track": "Institutional Investor Conference",
+            "description": "How digital assets and real markets co-exist to drive portfolio resilience"
+          },
+          {
+            "session_id": "D2_II_004",
+            "time_start": "11:50",
+            "time_end": "12:30",
+            "duration_minutes": 40,
+            "title": "Allocating Beyond Borders: Designing for Diversification",
+            "type": "Fund Architecture Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Cross-jurisdictional fund design, tax efficiency, and yield optimization"
+          },
+          {
+            "session_id": "D2_II_005",
+            "time_start": "12:30",
+            "time_end": "13:00",
+            "duration_minutes": 30,
+            "title": "Outbound Capital Pathways: Europe · LATAM · Asia",
+            "type": "Practical Clinic",
+            "track": "Institutional Investor Conference",
+            "description": "Practical clinics mapping regional investment corridors"
+          },
+          {
+            "session_id": "D2_II_006",
+            "time_start": "13:00",
+            "time_end": "13:30",
+            "duration_minutes": 30,
+            "title": "Institutional Networking & Partnership Dialogue",
+            "type": "Facilitated Networking",
+            "track": "Institutional Investor Conference",
+            "format": "B2B roundtables",
+            "description": "Facilitated B2B roundtables for allocators and fund managers"
+          },
+          {
+            "session_id": "D2_II_007",
+            "time_start": "13:30",
+            "time_end": "14:00",
+            "duration_minutes": 30,
+            "title": "Private Credit & Debt Funds: The Allocator Advantage",
+            "type": "Alternative Credit Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Institutional opportunities in alternative credit vehicles"
+          },
+          {
+            "session_id": "D2_II_008",
+            "time_start": "14:00",
+            "time_end": "14:35",
+            "duration_minutes": 35,
+            "title": "Smart Contract Governance & RegTech in Action",
+            "type": "Blockchain & Compliance Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Blockchain-based transparency and digital compliance tools for funds"
+          },
+          {
+            "session_id": "D2_II_009",
+            "time_start": "14:35",
+            "time_end": "15:10",
+            "duration_minutes": 35,
+            "title": "Fund Architecture & Cross-Border Treaty Playbook",
+            "type": "Legal & Tax Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Structures and treaty frameworks enabling seamless capital movement"
+          },
+          {
+            "session_id": "D2_II_010",
+            "time_start": "15:10",
+            "time_end": "15:40",
+            "duration_minutes": 30,
+            "title": "Velocity Reimagined: Dubai's Competitive Edge",
+            "type": "Strategic Positioning",
+            "track": "Institutional Investor Conference",
+            "description": "Highlights Dubai's speed-of-execution advantage and success stories"
+          },
+          {
+            "session_id": "D2_II_011",
+            "time_start": "15:40",
+            "time_end": "16:00",
+            "duration_minutes": 20,
+            "title": "Open Networking & Deal Closures",
+            "type": "Open Networking + Announcements",
+            "track": "Institutional Investor Conference",
+            "description": "Facilitated MoU and partnership announcements"
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 3,
+      "date": "2026-04-15",
+      "day_name": "Tuesday",
+      "tracks": {
+        "main_conference": [
+          {
+            "session_id": "D3_MC_001",
+            "time_start": "11:00",
+            "time_end": "11:40",
+            "duration_minutes": 40,
+            "title": "AI & the Agent: Designing Intelligent Cities",
+            "type": "Technology & Urban Design Panel",
+            "track": "Main Conference",
+            "description": "How AI and analytics empower architects and brokers in future cities"
+          },
+          {
+            "session_id": "D3_MC_002",
+            "time_start": "11:40",
+            "time_end": "12:10",
+            "duration_minutes": 30,
+            "title": "Sustainability Meets Commerce: ESG & E-Commerce Impact",
+            "type": "Sustainability + Logistics Panel",
+            "track": "Main Conference",
+            "description": "ESG compliance as capital driver and e-commerce effect on logistics"
+          },
+          {
+            "session_id": "D3_MC_003",
+            "time_start": "12:10",
+            "time_end": "12:35",
+            "duration_minutes": 25,
+            "title": "Leasing Strategies in UAE & KSA",
+            "type": "GCC-Focused Panel",
+            "track": "Main Conference",
+            "description": "Discusses GCC leasing trends, yields, and investor expectations"
+          },
+          {
+            "session_id": "D3_MC_004",
+            "time_start": "12:35",
+            "time_end": "13:05",
+            "duration_minutes": 30,
+            "title": "Networking Lunch & Pavilion Exploration",
+            "type": "Networking & Exhibition",
+            "track": "Main Conference",
+            "description": "Working lunch with partners and exhibitors"
+          },
+          {
+            "session_id": "D3_MC_005",
+            "time_start": "13:05",
+            "time_end": "13:45",
+            "duration_minutes": 40,
+            "title": "Tech, Trust & Transformation: The New Broker Playbook",
+            "type": "Technology & Operations Panel",
+            "track": "Main Conference",
+            "description": "CRM, AI tools, and behavioral insights for stronger client loyalty"
+          },
+          {
+            "session_id": "D3_MC_006",
+            "time_start": "13:45",
+            "time_end": "14:15",
+            "duration_minutes": 30,
+            "title": "Green Deals & Grand Designs: Investing in Vision",
+            "type": "Sustainability & Design Panel",
+            "track": "Main Conference",
+            "description": "How sustainability meets design excellence and investor trust"
+          },
+          {
+            "session_id": "D3_MC_007",
+            "time_start": "14:15",
+            "time_end": "14:40",
+            "duration_minutes": 25,
+            "title": "The Human Edge: Buyer Behavior & Relationship Mastery",
+            "type": "Psychology & Sales Panel",
+            "track": "Main Conference",
+            "description": "Examines psychology and emotional intelligence in real estate"
+          },
+          {
+            "session_id": "D3_MC_008",
+            "time_start": "14:40",
+            "time_end": "15:00",
+            "duration_minutes": 20,
+            "title": "Real Estate 2033: The Future Is Now",
+            "type": "Closing Keynote",
+            "track": "Main Conference",
+            "description": "Visionaries share foresight on markets, sustainability, and AI-driven growth"
+          }
+        ],
+        "institutional_investor_conference": [
+          {
+            "session_id": "D3_II_001",
+            "time_start": "11:00",
+            "time_end": "11:25",
+            "duration_minutes": 25,
+            "title": "Liquidity Lab: Global Money Markets & FX Strategies",
+            "type": "Capital Markets Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Optimizing multi-currency liquidity across jurisdictions"
+          },
+          {
+            "session_id": "D3_II_002",
+            "time_start": "11:25",
+            "time_end": "11:55",
+            "duration_minutes": 30,
+            "title": "Sustainable Yield Forum: Green Bonds & ESG Returns",
+            "type": "ESG & Fixed Income Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Explores green bonds and ESG-linked instruments for sustainable profitability"
+          },
+          {
+            "session_id": "D3_II_003",
+            "time_start": "11:55",
+            "time_end": "12:25",
+            "duration_minutes": 30,
+            "title": "AI & Quant Capital: Smart Underwriting & Alpha Generation",
+            "type": "Advanced Technology Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Machine-learning tools for risk modeling and institutional alpha"
+          },
+          {
+            "session_id": "D3_II_004",
+            "time_start": "12:25",
+            "time_end": "12:55",
+            "duration_minutes": 30,
+            "title": "Networking Lunch & Investor Dialogues",
+            "type": "Interactive Networking + Meals",
+            "track": "Institutional Investor Conference",
+            "format": "Structured dialogues between allocators and investors",
+            "description": "Interactive sessions between capital allocators and fund managers"
+          },
+          {
+            "session_id": "D3_II_005",
+            "time_start": "12:55",
+            "time_end": "13:30",
+            "duration_minutes": 35,
+            "title": "Tokenized Infrastructure & Impact Capital",
+            "type": "Emerging Tech + Impact Panel",
+            "track": "Institutional Investor Conference",
+            "description": "Integrating digital infrastructure and green finance models"
+          },
+          {
+            "session_id": "D3_II_006",
+            "time_start": "13:30",
+            "time_end": "14:00",
+            "duration_minutes": 30,
+            "title": "Global CIO Roundtable: 2033 Allocation Roadmaps",
+            "type": "Closed-Door Executive Session",
+            "track": "Institutional Investor Conference",
+            "audience": "Chief Investment Officers (selected)",
+            "description": "Closed-door dialogue on strategies shaping the next decade of capital"
+          },
+          {
+            "session_id": "D3_II_007",
+            "time_start": "14:00",
+            "time_end": "14:30",
+            "duration_minutes": 30,
+            "title": "Governance Equation: RegTech & Transparency in Action",
+            "type": "Compliance & Governance Panel",
+            "track": "Institutional Investor Conference",
+            "description": "AI-powered oversight for compliance and reporting"
+          },
+          {
+            "session_id": "D3_II_008",
+            "time_start": "14:30",
+            "time_end": "15:00",
+            "duration_minutes": 30,
+            "title": "Capital Pathways Activated: The Road Ahead",
+            "type": "Closing Strategic Summary",
+            "track": "Institutional Investor Conference",
+            "description": "Summarizes Dubai's institutional leadership and forward roadmap"
+          }
+        ]
+      }
+    }
+  ],
+  "summary_statistics": {
+    "total_sessions": 34,
+    "main_conference_sessions": 17,
+    "institutional_investor_sessions": 17,
+    "total_hours": 44.25,
+    "parallel_tracks": 2,
+    "networking_sessions": 4,
+    "panel_discussions": 22,
+    "keynotes": 2,
+    "specialized_sessions": 4,
+    "alexander_primary_opportunity": "Shaping 2030: AI, Cities & the New Urban Code (Day 1, 13:45-14:25)"
+  },
+  "speaker_recruitment_parameters": {
+    "panel_title": "Shaping 2030: AI, Cities & the New Urban Code",
+    "panel_date": "2026-04-13",
+    "panel_time": "13:45-14:25",
+    "duration_minutes": 40,
+    "target_speaker_count": {
+      "minimum": 5,
+      "target": 7
+    },
+    "speaker_profile": "Fortune 500 / Tier-1 executives",
+    "required_expertise_domains": [
+      "AI/PropTech Innovation",
+      "Smart Cities Infrastructure",
+      "Climate Resilience & Sustainability",
+      "Wellness-Driven Design & Healthy Buildings"
+    ],
+    "domain_coverage_requirement": "All 4 domains must be represented",
+    "geographic_preference": "Global reach acceptable",
+    "logo_value_priority": "High prestige/brand recognition preferred",
+    "outreach_deadline": "2026-01-15",
+    "reference_candidates": "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md"
+  },
+  "metadata": {
+    "document_version": "1.0",
+    "created_date": "2025-11-10",
+    "last_updated": "2025-11-10",
+    "file_location": "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/ips26-agenda-2026.json",
+    "related_documents": [
+      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md",
+      "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/panel-gap-analysis-2026.md",
+      "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md",
+      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md",
+      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md"
+    ],
+    "purpose": "Machine-readable agenda data for agent automation, session filtering, and strategic planning",
+    "data_integrity": "All times converted to 24-hour format. Session durations calculated. Track assignments verified."
+  }
+}

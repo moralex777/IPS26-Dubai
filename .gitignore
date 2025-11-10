@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.local
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive
+*.key
+credentials.json
+
+# Generated
+*.log
+dist/
+build/
+
+# Temporary
+*.tmp
+*~
+.split-backup-*/
+split-diff-report-*.txt
+split-validation-report-*.txt
