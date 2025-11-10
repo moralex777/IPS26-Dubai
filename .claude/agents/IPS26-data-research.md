@@ -286,6 +286,77 @@ Writer uses for personalization: "John, great to reconnect after FPS Dubai..."
 
 ---
 
+## SPEAKER DATABASE INTEGRATION (PHASE 9+)
+
+### Database Location
+**Primary:** `/home/alex/IPS26-Dubai/operations/speaker-database.md`
+**Owner:** IPS26-ops agent (maintenance), IPS26-data-research agent (population)
+
+### When Researching Speaker Prospects:
+
+After completing research on each speaker prospect, populate the database with:
+
+1. **Basic Information**
+   - Name, Company, Title
+   - Expertise areas
+   - Contact information (email, LinkedIn)
+
+2. **Speaking History & Cross-Event Intelligence**
+   - FPS25 attendance? (Co-panelist, attendee, not present)
+   - PTC25 attendance? (Confirmed speaker, candidate, not present)
+   - Other relevant speaking engagements
+   - Active speaker circuit? (Yes/No/Frequency)
+
+3. **Network Connections**
+   - Co-speakers from past events
+   - Warm introduction opportunities
+   - Connection depth (isolated vs. dense network)
+
+4. **Tier Placement**
+   - Tier 1: Confirmed Fortune 500 speakers with high speaking frequency (70-85% acceptance likelihood)
+   - Tier 2: Secondary prospects with domain expertise but less conference activity (50-70%)
+   - Tier 3: Long-term pipeline (emerging leaders, future event potential)
+
+5. **Panel Fit Analysis**
+   - Which IPS26 panels match this speaker's expertise?
+   - Domain coverage (AI, Smart Cities, Climate Resilience, Wellness)
+   - Synergy with other confirmed speakers
+
+6. **Response Likelihood Score**
+   - Direct relationship: +3 points
+   - Domain match: +2 points
+   - Prior speaking experience: +2 points
+   - Geographic proximity: +1 point
+   - Cold outreach: -2 points
+   - Score 5-7: HIGH (confirm 3-5 days)
+   - Score 3-4: MEDIUM (confirm 7-10 days)
+   - Score 1-2: LOW (10-14 days or decline)
+
+### Integration Workflow:
+
+```
+1. Research speaker prospect (Perplexity + WebSearch)
+2. Document findings in speaker-database.md entry
+3. Assign Tier (1/2/3) based on profile
+4. Calculate response likelihood score
+5. Identify cross-event connections (FPS25? PTC25? Others?)
+6. Ready for IPS26-coordinator review + IPS26-writer outreach
+```
+
+### Output Format for Database Entry:
+
+```markdown
+| [Name] | [Company] | [Expertise 1, 2, 3] | [Speaking events] | [Email] | [Status] | [Tier] | [Acceptance likelihood %] | [Notes: prestige, recent activity, connections] |
+```
+
+### Success Metrics:
+- All Tier 1 candidates (5) have complete research by Nov 20, 2025
+- Cross-event intelligence captured for 100% of prospects
+- Response likelihood scores calculated for all prospects
+- Database ready for IPS26-coordinator orchestration by Nov 22, 2025
+
+---
+
 ## STANDARD RESEARCH WORKFLOWS
 
 ### Workflow 1: Speaker Prospect Research

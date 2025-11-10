@@ -68,22 +68,28 @@
 
 ## CROSS-EVENT HISTORY
 
-### FPS25 Dubai (October 2025) - Reference Benchmark
-- **Event:** Future PropTech Summit Dubai
-- **Alexander's Role:** Panel Moderator + Speaker Recruiter
-- **Speakers Delivered:** 3 confirmed speakers
-- **Panel:** Green Building track
-- **Success Metric:** 42.8% of one panel (3 of 7 speakers)
+### FPS25 Dubai (October 14-15, 2025) - Reference Benchmark
+- **Event:** Future PropTech Summit Dubai (Mövenpick Grand Al Bustan)
+- **Alexander's Role:** Panel Moderator - "The Intersection of Smart Cities and PropTech" (Day 2, 13:00-13:40)
+- **Panel Topic:** Smart Cities and PropTech innovations
+- **Confirmed Panelists:**
+  - Dr. Abdulla Al Wahedi | Irtikaz Property Management
+  - Colin O'Reilly | MRI Software
+  - Clark Povey | Scintilla
+  - Richard Dimichele | HCF
+- **Speakers Recruited:** 3 confirmed speakers (details pending full documentation)
+- **Success Metric:** 42.8% panel contribution (3 of 7 expected speakers)
 - **Value:** €20-30K speaker recruitment value
 - **Lesson:** Value-first approach (deliver speakers before asking for anything) was key to organizer confidence
 
 ### PTC25 London (September 2025) - Reference Benchmark
 - **Event:** PropTech Connect London
-- **Alexander's Role:** Panel Moderator
-- **Speakers Delivered:** Last-minute replacement moderator
+- **Alexander's Role:** Panel Moderator (Last-minute replacement for Nuria Muñoz)
 - **Preparation:** 48-hour sprint + 9-agent deployment
 - **Success Metric:** Professional moderation execution
+- **Confirmed Speakers:** [Details pending documentation]
 - **Lesson:** Rapid preparation capability proven with agent-based workflow
+- **Strategic Insight:** 2-day sprint moderation success demonstrates ability to deliver under pressure
 
 ### IPS26 Dubai (April 13-15, 2026) - Current Opportunity
 - **Event:** IPS Congress 2026 (40,000+ attendees, 150+ media)

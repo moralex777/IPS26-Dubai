@@ -247,20 +247,99 @@ When metrics fall below target:
 
 ---
 
-## SPEAKER DATABASE MAINTENANCE
+## SPEAKER DATABASE MAINTENANCE (PHASE 9+)
 
 ### Own the speaker database: `/home/alex/IPS26-Dubai/operations/speaker-database.md`
 
-**Tasks:**
-- When speaker confirms: Add to database, mark status "confirmed"
-- When speaker declines: Mark status "declined", note reason
-- When speaker at event: Document interaction, learning
-- Cross-event entries: Note if speaker appears in multiple events
+**Primary Responsibility:** Daily updates during recruitment phase (Nov-Dec 2025), weekly during prep phase (Jan-Mar 2026)
 
-**Updates trigger:**
-- Monthly: Aggregate statistics (total tracked, confirmation rate, etc.)
-- After events: Add post-event notes (how they performed, quote, learnings)
-- Anytime: New speaking history discovered, update immediately
+### Weekly Maintenance Workflow (Every Monday During Recruitment Phase)
+
+**Time required:** 15 minutes per week
+
+**Step 1: Review New Confirmations**
+- [ ] Check email/LinkedIn for new speaker confirmations received since last Monday
+- [ ] Move confirmed speakers from "Pending Outreach" → "Confirmed" section
+- [ ] Record confirmation date and response time (date invited → date confirmed)
+- [ ] Update contact info if new details received
+
+**Step 2: Track Response Metrics**
+- [ ] Count total invitations sent (cumulative)
+- [ ] Count total responses received (Yes + No + Maybe)
+- [ ] Calculate conversion rate: (Confirmations / Invitations sent) × 100
+- [ ] Identify fastest responders (which contact method? Which speaker type?)
+- [ ] Identify slowest responders (>7 days, escalate or archive as cold)
+
+**Step 3: Update Intelligence Signals**
+- [ ] New speaking opportunities discovered? Update "Speaking History" section
+- [ ] New warm introduction opportunities? Add to "Network Connections"
+- [ ] Revised response likelihood scores? Update scoring based on actual behavior
+- [ ] Any patterns emerging? (e.g., "Tier 1 + warm intro = 80% acceptance", "cold outreach = 20%")
+
+**Step 4: Flag Declining Prospects**
+- [ ] Any explicit declines received? Move to "Declined" section, note reason
+- [ ] Any non-responders after 7 days? Mark for follow-up or archival
+- [ ] Any calendar conflicts mentioned? Document for future events
+
+**Step 5: Escalation Gate Assessment**
+- [ ] Are we on track to hit checkpoint targets?
+  - Nov 20: Tier 1 outreach begins ✓
+  - Dec 1: Min 2 confirmations (GATE ASSESSMENT)
+  - Dec 8: Activate Tier 2 candidates if needed
+  - Dec 15: Min 5-7 confirmations (CRITICAL GATE)
+- [ ] If below target: Generate alert for IPS26-coordinator + IPS26-data-research
+- [ ] If on track: No escalation needed, continue Tier 1 focus
+
+**Step 6: Git Workflow**
+```bash
+cd /home/alex/IPS26-Dubai/operations/
+git add speaker-database.md
+git commit -m "Weekly speaker database update - [N] confirmations, [M] total contacted, [%] conversion rate"
+git push origin main
+```
+
+**Example commit messages:**
+- "Weekly speaker database update - 3 confirmations, 5 total contacted, 60% conversion rate"
+- "Weekly speaker database update - 0 new confirmations, escalation to Tier 2 recommended"
+- "Weekly speaker database update - 6 confirmations, threshold met, Tier 1 campaign complete"
+
+### Real-Time Updates (During Week)
+
+**Trigger:** When speaker confirms (via email, LinkedIn message, phone call)
+- [ ] Update database immediately (don't wait for Monday)
+- [ ] Add confirmation date
+- [ ] Move to "Confirmed" section
+- [ ] Update contribution tracker with new confirmation count
+
+**Trigger:** When speaker declines
+- [ ] Move to "Declined" section
+- [ ] Record reason if provided
+- [ ] Assess if fallback speaker should be activated
+
+### Monthly Maintenance (End of Month)
+
+**Review and aggregate:**
+- [ ] Total speakers tracked: [N]
+- [ ] Confirmed speakers: [N]
+- [ ] Declined speakers: [N]
+- [ ] Overall confirmation rate: [%]
+- [ ] Month-over-month trend (improving/declining?)
+- [ ] FPS25/PTC25 warm intro success rate vs. cold outreach
+
+### Post-Event Maintenance (April 2026)
+
+**After IPS Congress:**
+- [ ] Document how each confirmed speaker performed
+- [ ] Add post-event notes (engagement, feedback, learnings)
+- [ ] Capture any new connections made during event
+- [ ] Archive completed speakers to historical record
+- [ ] Update learnings for future events (Riyadh, Berlin, etc.)
+
+### Key Updates Trigger:
+- **Real-time:** Speaker confirmations, explicit declines
+- **Weekly (Monday):** Comprehensive review, checkpoint gates, metrics calculation
+- **Monthly:** Aggregate statistics, trend analysis
+- **After events:** Post-event notes, learning capture
 
 **Database Format:**
 

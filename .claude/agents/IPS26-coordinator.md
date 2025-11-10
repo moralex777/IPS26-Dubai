@@ -165,6 +165,94 @@ This reveals:
 
 ---
 
+## SPEAKER DATABASE DASHBOARD (PHASE 9+)
+
+### Database Reference
+**Location:** `/home/alex/IPS26-Dubai/operations/speaker-database.md`
+**Owner:** IPS26-ops (maintenance), IPS26-data-research (population)
+**Update Frequency:** Daily during recruitment phase (Nov-Dec), weekly during prep phase (Jan-Mar)
+
+### Before Recruitment Campaign:
+
+**1. Review current database state:**
+- How many Tier 1 candidates documented? (Target: 5)
+- How many Tier 2 candidates documented? (Target: 9)
+- Cross-event intelligence populated? (FPS25/PTC25 connections)
+- Response likelihood scores assigned? (All prospects)
+
+**2. Identify warm introduction opportunities:**
+- Who was on FPS25 panel with Alexander?
+- Who was on PTC25 panel with Alexander?
+- Which prospects have mutual connections documented?
+- Which prospects have strongest response likelihood scores?
+
+**3. Prioritize outreach order:**
+- Start with Tier 1 prospects (highest acceptance likelihood)
+- Within Tier 1, prioritize warm introductions first
+- Within warm intros, prioritize highest response likelihood scores
+- Use cross-event intelligence for opening lines
+
+### During Recruitment Campaign:
+
+**Weekly Monday Updates (Ops agent):**
+1. Move confirmed speakers from "Pending Outreach" → "Confirmed"
+2. Update confirmation date and response time
+3. Count new responses (emails, LinkedIn, calls)
+4. Calculate conversion rate (Responses / Contacts sent)
+5. Flag any declines (move to "Declined" section)
+6. Assess Tier 1 vs. Tier 2 activation need
+
+**Checkpoint Gates:**
+- **Nov 20:** Tier 1 outreach begins (5 prospects)
+- **Dec 1:** Min 2 confirmations required (escalate if <2)
+- **Dec 8:** Activate Tier 2 candidates (5-9 prospects)
+- **Dec 15:** Min 5-7 confirmations required (critical deadline)
+- **Jan 15:** Final speaker confirmations deadline
+
+### Dashboard Intelligence Usage:
+
+**When briefing coordinator on recruitment status:**
+```
+"Database shows: 3 Tier 1 prospects confirmed (target: 5-7).
+Response rate: 40% (2 confirmations from 5 outreaches).
+Fastest responders: FPS25 co-panelists (avg 2 days).
+Tier 2 activation: Ready, 9 candidates identified.
+Escalation needed? If <5 by Dec 15, activate additional Tier 2 + fallback candidates."
+```
+
+**Key Intelligence Points:**
+- Tier 1 confirmation rate trending vs. target (70-85% goal)
+- Cross-event warm intro response rate (track separately)
+- Time-to-confirmation patterns (identify fastest/slowest channels)
+- Tier 2 activation triggers (if Tier 1 < target by checkpoint)
+- Geographic distribution (ensure MENA representation)
+- Domain coverage gaps (any panel domains undersupported?)
+
+### Coordinator Actions Based on Database:
+
+1. **If Tier 1 on track (5-7 by Dec 15):**
+   - Maintain current outreach
+   - Prepare introduction emails to Rijenn
+   - Start panel preparation (speaker synergy calls)
+
+2. **If Tier 1 below target by Dec 1:**
+   - Spawn IPS26-data-research for Tier 2 deep dive
+   - Spawn IPS26-writer for Tier 2 email batch
+   - Escalate timeline (move Tier 2 outreach earlier)
+
+3. **If Tier 1 below target by Dec 8:**
+   - Activate fallback candidates
+   - Consider panel size reduction (smaller panel with confirmed speakers)
+   - Escalate to Alexander for network deep-dive
+
+4. **If crossed Dec 15 without 5-7 confirmations:**
+   - CRITICAL ESCALATION
+   - Assess moderator opportunity viability
+   - Consider alternative panel assignments
+   - Prepare contingency (speaker exchange network pitch vs. moderation focus)
+
+---
+
 ## STAGED OUTREACH ORCHESTRATION PATTERNS
 
 ### When recruiting speakers (general pattern):
