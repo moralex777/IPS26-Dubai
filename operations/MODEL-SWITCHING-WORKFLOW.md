@@ -2,13 +2,13 @@
 
 **Version:** 1.0
 **Last Updated:** November 5, 2025
-**Project:** PTC26-Dubai
+**Project:** IPS26-Dubai
 
 ---
 
 ## Overview
 
-PTC26-Dubai uses a hybrid model strategy to optimize cost while maintaining quality:
+IPS26-Dubai uses a hybrid model strategy to optimize cost while maintaining quality:
 - **Planning Mode:** Sonnet 4.5 (strategic thinking, complex decision-making)
 - **Execution Mode:** Haiku 4.5 (task execution, agent spawning)
 - **All Agents:** Haiku 4.5 (60-70% cost reduction)
@@ -215,8 +215,8 @@ source ~/.bashrc
 ## Related Documentation
 
 - **Authoritative Playbook:** `/home/alex/PTC26-Dubai/CLAUDE.md` - Agent architecture details
-- **Agent Definitions:** `/home/alex/PTC26-Dubai/.claude/agents/` - Individual agent configs
-- **README:** `/home/alex/PTC26-Dubai/README.md` - Project navigation
+- **Agent Definitions:** `/home/alex/IPS26-Dubai/.claude/agents/` - Individual agent configs
+- **README:** `/home/alex/IPS26-Dubai/README.md` - Project navigation
 
 ---
 

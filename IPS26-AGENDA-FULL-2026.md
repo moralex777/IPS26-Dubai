@@ -51,7 +51,7 @@ IPS Congress 2026 is a dual-track event with parallel programming across 3 days:
 3. Climate resilience & sustainability
 4. Wellness-driven design & healthy buildings
 
-**Research Note:** This is Alexander's PRIMARY panel for speaker recruitment. See `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md` for 14 identified Fortune 500 candidates and detailed profiles.
+**Research Note:** This is Alexander's PRIMARY panel for speaker recruitment. See `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md` for 14 identified Fortune 500 candidates and detailed profiles.
 
 #### 2:25 PM – 2:55 PM
 **Session:** Branded Living 3.0: Emotion, Identity & Investment
@@ -475,11 +475,11 @@ IPS Congress 2026 is a dual-track event with parallel programming across 3 days:
 ## NAVIGATION & FILE REFERENCES
 
 **Companion Files:**
-- **Panel Gap Analysis:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/panel-gap-analysis-2026.md`
-- **Speaker Candidates Research:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
-- **Strategic Playbook:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
-- **Contribution Tracker:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- **JSON Agenda (Programmatic):** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/ips26-agenda-2026.json`
+- **Panel Gap Analysis:** `/home/alex/IPS26-Dubai/operations/panel-gap-analysis-2026.md`
+- **Speaker Candidates Research:** `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
+- **Strategic Playbook:** `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- **Contribution Tracker:** `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- **JSON Agenda (Programmatic):** `/home/alex/IPS26-Dubai/operations/ips26-agenda-2026.json`
 
 ---
 

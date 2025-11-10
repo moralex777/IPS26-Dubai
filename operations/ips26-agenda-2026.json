@@ -653,19 +653,19 @@
     "geographic_preference": "Global reach acceptable",
     "logo_value_priority": "High prestige/brand recognition preferred",
     "outreach_deadline": "2026-01-15",
-    "reference_candidates": "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md"
+    "reference_candidates": "/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md"
   },
   "metadata": {
     "document_version": "1.0",
     "created_date": "2025-11-10",
     "last_updated": "2025-11-10",
-    "file_location": "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/ips26-agenda-2026.json",
+    "file_location": "/home/alex/IPS26-Dubai/operations/ips26-agenda-2026.json",
     "related_documents": [
-      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md",
-      "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/panel-gap-analysis-2026.md",
-      "/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md",
-      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md",
-      "/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md"
+      "/home/alex/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md",
+      "/home/alex/IPS26-Dubai/operations/panel-gap-analysis-2026.md",
+      "/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md",
+      "/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md",
+      "/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md"
     ],
     "purpose": "Machine-readable agenda data for agent automation, session filtering, and strategic planning",
     "data_integrity": "All times converted to 24-hour format. Session durations calculated. Track assignments verified."

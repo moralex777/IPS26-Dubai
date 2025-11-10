@@ -39,4 +39,4 @@ TIMING: Right after completing both registration forms
 STATUS: Ready to send
 
 ========================================
-Navigation: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt
+Navigation: /home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt

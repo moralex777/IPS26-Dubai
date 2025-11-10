@@ -477,12 +477,12 @@ Exceptional expertise in all 4 domains with unique venture capital perspective (
 
 ## FILE LOCATIONS & NAVIGATION
 
-**This Research:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
+**This Research:** `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
 
 **Related Documents:**
-- Rijenn Interaction Log: `/home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md`
-- IPS26 Contribution Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- IPS26 Strategy Playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- Rijenn Interaction Log: `/home/alex/IPS26-Dubai/rijenn-interaction-log.md`
+- IPS26 Contribution Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- IPS26 Strategy Playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
 
 **Master Context:**
 - Parent Project: `/home/alex/PTC26-Dubai/CLAUDE.md`
@@ -494,4 +494,4 @@ Exceptional expertise in all 4 domains with unique venture capital perspective (
 **Next Step:** Alexander reviews Top 5 and begins personalized outreach in November 2025
 **Timeline:** Confirmations needed by January 15, 2026 for April 2026 event
 
-Navigation: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
+Navigation: `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`

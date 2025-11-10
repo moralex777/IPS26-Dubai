@@ -10,28 +10,28 @@
 
 ### Registration Documentation Complete
 1. **Moderator Bio Finalized** (200 words)
-   - Location: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
+   - Location: `/home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
    - Positioned for core CRE/institutional investment (not PropTech-centric)
    - References: ULI membership, strategic advisor role, Global/European CRE leadership
    - Emphasizes: Institutional relationships, multi-portfolio credibility, deca-billion enterprise collaboration
 
 2. **Registration Checklist Created**
-   - Location: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
+   - Location: `/home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
    - All required fields pre-populated with accurate data
    - Both registration links ready
    - Sectors selection strategy included (PropertyTalents + Pre-A Club VC + Moderator positioning)
 
 3. **Passport Files Organized**
-   - JPG: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.jpg`
-   - PDF: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.pdf`
+   - JPG: `/home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.jpg`
+   - PDF: `/home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.pdf`
    - Ready for registration upload
 
 4. **WhatsApp Confirmation Template Created**
-   - Location: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
+   - Location: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
    - Ready to send after form submission
 
 5. **Contribution Tracker Updated**
-   - Location: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+   - Location: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
    - Registration status logged
    - Discovery conversation with Rijenn documented (panel speaker support request)
    - Speaker recruitment objective added (NEW)
@@ -43,7 +43,7 @@
 - **Speaker Requirements:** 5-7 speakers, Fortune 500/Tier-1 companies, C-suite, multi-disciplinary expertise
 - **Topics:** AI/PropTech + Smart Cities + Climate Resilience + Wellness Design (all 4 mandatory)
 - **Status:** Discovery phase ACTIVE
-- **Interaction Log:** `/home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md`
+- **Interaction Log:** `/home/alex/IPS26-Dubai/rijenn-interaction-log.md`
 
 ### Prior Session Context (Nov 7)
 - Email sent to Rijenn + Azza expressing interest in both tracks
@@ -60,8 +60,8 @@
 **What to do:**
 1. Open both registration links (copy from registration checklist)
 2. Fill form fields using copy-paste assets:
-   - Name/Email/Phone: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
-   - Bio: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
+   - Name/Email/Phone: `/home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
+   - Bio: `/home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
    - Passport: Upload PDF version (`Passport-Alex-Morari-IPS26.pdf`)
    - Sectors: See checklist (8-10 selections across PropertyTalents + Pre-A Club VC + Moderator themes)
    - Testimonial: Use prepared 35-word statement
@@ -79,7 +79,7 @@ Use warm intro message flagging 404 links (already drafted in notes).
 ### Task 3: Send Registration Confirmation to Rijenn (WhatsApp)
 **Status:** ⏳ AFTER form submission
 
-Document: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
+Document: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
 
 ---
 
@@ -127,21 +127,21 @@ Document: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-s
 ## FILE LOCATIONS (Quick Reference)
 
 **Registration Materials (Ready to Use):**
-- Moderator bio: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
-- Checklist: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
-- Passport JPG: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.jpg`
-- Passport PDF: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.pdf`
-- WhatsApp template: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
+- Moderator bio: `/home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
+- Checklist: `/home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
+- Passport JPG: `/home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.jpg`
+- Passport PDF: `/home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.pdf`
+- WhatsApp template: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt`
 
 **Core Documents:**
-- Contribution tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- Initial research: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
-- Strategy playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
-- Rijenn interaction log: `/home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md`
-- This file: `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT.md`
+- Contribution tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- Initial research: `/home/alex/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
+- Strategy playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- Rijenn interaction log: `/home/alex/IPS26-Dubai/rijenn-interaction-log.md`
+- This file: `/home/alex/IPS26-Dubai/NEXT-PROMPT.md`
 
 **Sent Communications:**
-- Nov 7 email: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt`
+- Nov 7 email: `/home/alex/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt`
 
 **Parent Project (Context):**
 - Master playbook: `/home/alex/PTC26-Dubai/CLAUDE.md`
@@ -262,10 +262,10 @@ Document: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-s
 - Event: https://www.ipscongress.com/
 
 **Important Documents:**
-- Moderator bio (ready): `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
-- Registration checklist (ready): `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
-- Contribution tracker (active): `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- Interaction log: `/home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md`
+- Moderator bio (ready): `/home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt`
+- Registration checklist (ready): `/home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt`
+- Contribution tracker (active): `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- Interaction log: `/home/alex/IPS26-Dubai/rijenn-interaction-log.md`
 
 ---
 
@@ -276,5 +276,5 @@ Document: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-s
 ✅ Contribution tracker updated with new speaker recruitment objective
 ⏳ Next: Form submission + await Rijenn confirmation/discovery call scheduling
 
-**Navigation:** `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT.md`
+**Navigation:** `/home/alex/IPS26-Dubai/NEXT-PROMPT.md`
 **Last Updated:** November 10, 2025

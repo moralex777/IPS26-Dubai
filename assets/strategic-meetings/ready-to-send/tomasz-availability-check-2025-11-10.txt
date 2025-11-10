@@ -36,7 +36,7 @@ Alexander
 
 ---
 
-**File Location:** `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
+**File Location:** `/home/alex/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
 
 **Notes for Alexander:**
 - This inquiry is HIGH-STAKES - Tomasz availability is the critical success factor

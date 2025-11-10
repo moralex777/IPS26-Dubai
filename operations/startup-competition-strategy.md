@@ -399,7 +399,7 @@ Institutional investors ($100+ trillion in AUM) **cannot safely access tokenized
 
 ## PART 9: FILE LOCATIONS & NAVIGATION
 
-**This Document:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-strategy.md`
+**This Document:** `/home/alex/IPS26-Dubai/operations/startup-competition-strategy.md`
 
 **Related Documents:**
 - RWA Playbook: `/home/alex/rwa/CLAUDE.md`
@@ -407,9 +407,9 @@ Institutional investors ($100+ trillion in AUM) **cannot safely access tokenized
 - Unfair Advantage Doc: `/home/alex/rwa/sources/from-claude-web/Claude: To Tomasz - Why_Tomasz_Janyst_Unfair_Advantage.md`
 
 **IPS26 Strategy Integration:**
-- Contribution Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- Strategy Playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
-- Speaker Research: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
+- Contribution Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- Strategy Playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- Speaker Research: `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
 
 ---
 
@@ -417,4 +417,4 @@ Institutional investors ($100+ trillion in AUM) **cannot safely access tokenized
 
 **Next Step:** Rijenn inquiry + Tomasz availability check (immediate)
 
-Navigation: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-strategy.md`
+Navigation: `/home/alex/IPS26-Dubai/operations/startup-competition-strategy.md`

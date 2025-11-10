@@ -25,7 +25,7 @@ PHASE 1: IMMEDIATE VALIDATION (NOV 10-15, TODAY)
 
 Task 1: RIJENN INQUIRY
 What: Ask Rijenn for IPS PropTech Startups competition details
-File: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
+File: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
 How: WhatsApp (preferred) or email
 Key Questions:
 - Competition structure (live pitch vs. booth demo)?
@@ -37,7 +37,7 @@ Expected Response: 24-48 hours (Rijenn responsive)
 
 Task 2: TOMASZ AVAILABILITY CHECK
 What: Confirm Tomasz is still available + interested in IPS26 launch
-File: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
+File: `/home/alex/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
 How: Email (professional channel for co-founder discussion)
 Key Points:
 - IPS26 as launch platform (April 13-15, 40K institutional attendees)
@@ -99,27 +99,27 @@ Week 3-4 (Nov 20-30):
 DOCUMENTATION CREATED (READY FOR USE)
 
 Strategic Planning Documents:
-1. `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-strategy.md`
+1. `/home/alex/IPS26-Dubai/operations/startup-competition-strategy.md`
    - Comprehensive 5-month execution roadmap
    - Risk analysis & abort scenarios
    - Integration with IPS26 strategy
 
-2. `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
+2. `/home/alex/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
    - Pitch narratives (30-sec, 2-min, 10-min formats)
    - Investor Q&A prep
    - Competitive messaging
    - IPS26 audience targeting
 
-3. `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+3. `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
    - Updated with Objective 5 (Startup Competition)
    - Combined value table (4 components: speaker recruitment + boardroom + media + startup)
    - Go/No-Go decision framework documented
 
 Validation Templates:
-4. `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
+4. `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
    - Ready to send to Rijenn (WhatsApp or email)
 
-5. `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
+5. `/home/alex/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
    - Ready to send to Tomasz (email)
 
 ---
@@ -246,17 +246,17 @@ NEXT ACTION (TODAY - NOV 10)
 FILE LOCATIONS
 
 Strategy Documents:
-- Startup Competition Strategy: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-strategy.md`
-- RWA Oracle Positioning: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
-- This Document: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-next-steps.txt`
+- Startup Competition Strategy: `/home/alex/IPS26-Dubai/operations/startup-competition-strategy.md`
+- RWA Oracle Positioning: `/home/alex/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
+- This Document: `/home/alex/IPS26-Dubai/operations/startup-competition-next-steps.txt`
 
 IPS26 Integration:
-- Contribution Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- Strategy Playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- Contribution Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- Strategy Playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
 
 Outreach Templates:
-- Rijenn Inquiry: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
-- Tomasz Check: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
+- Rijenn Inquiry: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-startup-competition-inquiry-2025-11-10.txt`
+- Tomasz Check: `/home/alex/IPS26-Dubai/assets/strategic-meetings/ready-to-send/tomasz-availability-check-2025-11-10.txt`
 
 RWA Context:
 - RWA Playbook: `/home/alex/rwa/CLAUDE.md`
@@ -279,4 +279,4 @@ This is a high-upside, high-execution-risk opportunity. The 18-24 month regulato
 
 ---
 
-Navigation: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-next-steps.txt`
+Navigation: `/home/alex/IPS26-Dubai/operations/startup-competition-next-steps.txt`

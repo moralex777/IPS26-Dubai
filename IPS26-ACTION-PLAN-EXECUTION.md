@@ -200,4 +200,4 @@
 
 ---
 
-**Navigation:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
+**Navigation:** `/home/alex/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`

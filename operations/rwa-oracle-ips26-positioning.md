@@ -399,12 +399,12 @@ This isn't theoretical. Institutional customers are asking for this solution tod
 
 ## FILE LOCATIONS & NAVIGATION
 
-**This Document:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
+**This Document:** `/home/alex/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
 
 **Related Strategy Documents:**
-- Startup Competition Strategy: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/startup-competition-strategy.md`
-- IPS26 Contribution Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- IPS26 Strategy Playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- Startup Competition Strategy: `/home/alex/IPS26-Dubai/operations/startup-competition-strategy.md`
+- IPS26 Contribution Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- IPS26 Strategy Playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
 
 **RWA Startup Context:**
 - RWA Playbook: `/home/alex/rwa/CLAUDE.md`
@@ -414,4 +414,4 @@ This isn't theoretical. Institutional customers are asking for this solution tod
 
 **STATUS:** Positioning framework complete - ready for April 2026 IPS26 pitch
 
-Navigation: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`
+Navigation: `/home/alex/IPS26-Dubai/operations/rwa-oracle-ips26-positioning.md`

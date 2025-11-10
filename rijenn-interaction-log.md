@@ -141,11 +141,11 @@ part plus their backgrounds and company must also high end
 ---
 
 ## File Location
-`/home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md`
+`/home/alex/IPS26-Dubai/rijenn-interaction-log.md`
 
 **Related Files:**
-- IPS26 Contribution Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- IPS26 Strategy Playbook: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- IPS26 Contribution Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- IPS26 Strategy Playbook: `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
 
 ---
 

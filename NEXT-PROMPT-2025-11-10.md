@@ -42,7 +42,7 @@
 ## IMMEDIATE EXECUTION PLAN (Next Session)
 
 ### PRIORITY 1: Log JP Email Properly
-**File:** `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/sent/jp-poulin-1valet-SENT-2025-11-10.txt`
+**File:** `/home/alex/IPS26-Dubai/assets/speaker-recruitment/sent/jp-poulin-1valet-SENT-2025-11-10.txt`
 
 **Content to log:**
 ```
@@ -234,10 +234,10 @@ This command is for completing a work session and preparing clean handoff.
 ## FILE LOCATIONS
 
 **IPS26:**
-- Action plan: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
-- Contribution tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- Speaker emails: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/`
-- Sent emails: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/sent/`
+- Action plan: `/home/alex/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
+- Contribution tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- Speaker emails: `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/`
+- Sent emails: `/home/alex/IPS26-Dubai/assets/speaker-recruitment/sent/`
 
 **PTC26:**
 - Master playbook: `/home/alex/PTC26-Dubai/CLAUDE.md`
@@ -301,13 +301,13 @@ This command is for completing a work session and preparing clean handoff.
 ---
 
 **HOW TO RESUME:**
-1. Read this file: `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
+1. Read this file: `/home/alex/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
 2. Execute PRIORITY 1-5 in order
 3. Use agents for automation wherever possible
 4. Ask Alex about 3-5 outstanding priorities
 5. Use `/commit-full` when session complete
 
-**Navigation:** `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
+**Navigation:** `/home/alex/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
 
 ---
 

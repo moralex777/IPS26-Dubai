@@ -89,4 +89,4 @@ After both forms submitted:
 [ ] Await session details announcement and agenda publication
 
 ========================================
-Navigation: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt
+Navigation: /home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt

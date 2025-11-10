@@ -194,5 +194,5 @@ SECONDARY: Speaker recruitment by Jan 15 ✅
 
 ---
 
-Navigation: /home/alex/PTC26-Dubai/IPS26-Dubai/STATUS-SUMMARY-QUICK-REFERENCE.txt
+Navigation: /home/alex/IPS26-Dubai/STATUS-SUMMARY-QUICK-REFERENCE.txt
 Last Updated: November 10, 2025

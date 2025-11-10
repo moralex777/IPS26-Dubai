@@ -1,7 +1,7 @@
 # IPS 2026 Dubai: Strategic Playbook
 
 **Document:** IPS26-STRATEGY-PLAYBOOK.md
-**Location:** `/home/alex/PTC26-Dubai/IPS26-Dubai/`
+**Location:** `/home/alex/IPS26-Dubai/`
 **Status:** Active Strategy Document
 **Last Updated:** November 7, 2025
 **Next Review:** Post-Rijenn Discovery Call
@@ -401,7 +401,7 @@
 ---
 
 ### Tracking Document
-**File:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+**File:** `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
 - Updated weekly (Jan-April 2026)
 - Tracks speaker recruitment progress
 - Documents pipeline leads
@@ -561,9 +561,9 @@ IPS 2026 represents a transformational opportunity for Alexander to:
 ---
 
 **Files Reference:**
-- Research: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
-- Reply Draft: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-ips26-response-2025-11-07.txt`
-- Tracking: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md` (to be created)
+- Research: `/home/alex/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
+- Reply Draft: `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-ips26-response-2025-11-07.txt`
+- Tracking: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md` (to be created)
 - Parent Strategy: `/home/alex/PTC26-Dubai/CLAUDE.md`
 
 **END OF STRATEGY PLAYBOOK**

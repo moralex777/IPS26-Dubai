@@ -1,7 +1,7 @@
 # IPS 2026 Dubai: Strategic Research & Opportunity Analysis
 
 **Document:** IPS26-INITIAL-RESEARCH.md
-**Location:** `/home/alex/PTC26-Dubai/IPS26-Dubai/`
+**Location:** `/home/alex/IPS26-Dubai/`
 **Date:** November 7, 2025
 **Status:** Initial Research Complete | Ready for Strategy Development
 
@@ -415,7 +415,7 @@ Before replying formally, Alexander should consider:
 - Panel prep materials (post-confirmation)
 
 **PTC26-ops**
-- File organization (IPS26 assets in `/PTC26-Dubai/IPS26-Dubai/`)
+- File organization (IPS26 assets in `/IPS26-Dubai/`)
 - Contribution tracking (IPS26-CONTRIBUTION-TRACKER.md)
 - Timeline management (Feb-April 2026 execution)
 - Meeting scheduling (with Rijenn, co-panelists, media partners)
@@ -425,17 +425,17 @@ Before replying formally, Alexander should consider:
 ## SECTION 13: FILES & NAVIGATION
 
 ### Research Files (Created)
-- **This File:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
+- **This File:** `/home/alex/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md`
 
 ### Files to Create Next
-- **Strategy Playbook:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
-- **Reply Draft:** `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-ips26-response-draft.txt`
-- **Contribution Tracker:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
-- **Trip Logistics:** `/home/alex/PTC26-Dubai/IPS26-Dubai/TRIP-LOGISTICS-IPS26.md`
+- **Strategy Playbook:** `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- **Reply Draft:** `/home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-ips26-response-draft.txt`
+- **Contribution Tracker:** `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- **Trip Logistics:** `/home/alex/IPS26-Dubai/TRIP-LOGISTICS-IPS26.md`
 
 ### Assets Organization
 ```
-/PTC26-Dubai/IPS26-Dubai/
+/IPS26-Dubai/
 ├── IPS26-INITIAL-RESEARCH.md (this file)
 ├── IPS26-STRATEGY-PLAYBOOK.md (next)
 ├── IPS26-CONTRIBUTION-TRACKER.md (next)

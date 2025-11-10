@@ -164,7 +164,7 @@ Analyze all 53 sessions across IPS26 Dubai 2026's full 3-day agenda (both Confer
 ## 4. DETAILED INSTRUCTIONS
 
 ### INPUT FILE LOCATION
-**Primary Source:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md`
+**Primary Source:** `/home/alex/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md`
 
 **What to Analyze:**
 - All 53 sessions across 3 days (April 13-15, 2026)
@@ -172,7 +172,7 @@ Analyze all 53 sessions across IPS26 Dubai 2026's full 3-day agenda (both Confer
 - Session details: title, description, type, duration, time
 
 ### Step 1: Parse IPS26 Agenda
-1. Read `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md` line by line
+1. Read `/home/alex/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md` line by line
 2. Extract all sessions with these fields:
    - Day (Sunday April 13, Monday April 14, Tuesday April 15)
    - Track (Main Conference Track OR Institutional Investor Conference Track)
@@ -336,7 +336,7 @@ Before finalizing JSON output:
 ## 8. FILE OUTPUT LOCATION
 
 **Save Results To:**
-`/home/alex/PTC26-Dubai/IPS26-Dubai/manus-outputs/content-strategy/ips26-full-agenda-speaker-content-research-results-2025-11-10.json`
+`/home/alex/IPS26-Dubai/manus-outputs/content-strategy/ips26-full-agenda-speaker-content-research-results-2025-11-10.json`
 
 **File Format:** Single JSON file (not multiple files)
 
@@ -349,10 +349,10 @@ Before finalizing JSON output:
 After Manus completes the task:
 
 - [ ] Download results from Manus interface
-- [ ] Upload to `/home/alex/PTC26-Dubai/IPS26-Dubai/manus-outputs/content-strategy/`
+- [ ] Upload to `/home/alex/IPS26-Dubai/manus-outputs/content-strategy/`
 - [ ] Verify file integrity (valid JSON, can be parsed, not corrupted)
 - [ ] Spot-check 5 random sessions for quality
-- [ ] Update `/home/alex/PTC26-Dubai/operations/manus-integration/credit-tracker.md` (if exists)
+- [ ] Update `/home/alex/IPS26-Dubai/operations/manus-integration/credit-tracker.md` (if exists)
 - [ ] Git commit with message: `MANUS: IPS26 full agenda speaker & content research - 53 sessions analyzed - [CREDITS] credits`
 - [ ] Notify Alexander: "IPS26 Manus research complete. Ready for Claude Code review."
 - [ ] Alexander notifies Claude Code to git pull latest changes
@@ -399,5 +399,5 @@ Then Manus AI integration is validated and we'll proceed with additional deep-di
 
 ---
 
-**Navigation:** `/home/alex/PTC26-Dubai/IPS26-Dubai/manus-tasks/ips26-full-agenda-speaker-content-research-v1.md`
+**Navigation:** `/home/alex/IPS26-Dubai/manus-tasks/ips26-full-agenda-speaker-content-research-v1.md`
 **Copy this spec and paste into Manus AI web interface to execute**

@@ -407,7 +407,7 @@ Save to: meeting-intelligence-feb-2026-dubai-YYYY-MM-DD.json
 
 ---
 
-**Navigation:** `/home/alex/PTC26-Dubai/operations/manus-integration/manus-workflows.md`
+**Navigation:** `/home/alex/IPS26-Dubai/operations/manus-integration/manus-workflows.md`
 **Related Files:**
 - Task template: `/manus-tasks/TASK-TEMPLATE.md`
 - Credit tracking: `/operations/manus-integration/credit-tracker.md`

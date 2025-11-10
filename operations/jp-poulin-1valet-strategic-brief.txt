@@ -94,7 +94,7 @@ OUTREACH STRATEGY
 4. "40,000 institutional investors + 150 media reps = major visibility"
 5. "Looking for confirmation by mid-January for April event"
 
-**Email Location:** `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
+**Email Location:** `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
 
 ---
 
@@ -239,15 +239,15 @@ JP Poulin approach:
 FILE LOCATIONS
 
 Ready-to-send materials:
-- Email invitation: `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
-- This brief: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/jp-poulin-1valet-strategic-brief.txt`
+- Email invitation: `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
+- This brief: `/home/alex/IPS26-Dubai/operations/jp-poulin-1valet-strategic-brief.txt`
 
 FPS25 source materials:
 - Panel research: `/home/alex/fps25/assets/speaker-panel/panelist-research-jp-poulin.txt`
 - Full agenda context: `/home/alex/fps25/FPS25-COMPLETE-AGENDA-2025-10-06.md`
 
 Tracking:
-- IPS26 tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- IPS26 tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
 
 ---
 
@@ -264,4 +264,4 @@ Expected outcome: JP confirms within 1 week, introduction to Rijenn by Nov 20, o
 ---
 
 Document prepared: November 10, 2025
-Navigation: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/jp-poulin-1valet-strategic-brief.txt`
+Navigation: `/home/alex/IPS26-Dubai/operations/jp-poulin-1valet-strategic-brief.txt`

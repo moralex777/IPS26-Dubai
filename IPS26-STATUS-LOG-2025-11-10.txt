@@ -33,15 +33,15 @@ Next Critical Date: Nov 11-15 (expect Rijenn confirmation/discovery call schedul
 
 ### 1. REGISTRATION DOCUMENTATION (FULLY COMPLETE)
 - ✅ Moderator bio finalized (200 words)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt
+  Location: /home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt
   Status: Ready for event use, positioned for institutional investment focus
 
 - ✅ Registration checklist with pre-populated data
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt
+  Location: /home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt
   Status: All fields verified, both registration links tested
 
 - ✅ Passport files organized (both JPG + PDF)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.[jpg/pdf]
+  Location: /home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.[jpg/pdf]
   Status: Ready for upload, tested file sizes
 
 - ✅ Registration forms SUBMITTED (Nov 10)
@@ -50,22 +50,22 @@ Next Critical Date: Nov 11-15 (expect Rijenn confirmation/discovery call schedul
   Awaiting confirmation from IPS system
 
 - ✅ WhatsApp template prepared (ready to send)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt
+  Location: /home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt
   Status: Drafted, awaiting form confirmation to send
 
 ### 2. ORGANIZER COMMUNICATION (COMPLETE)
 - ✅ Nov 7 email sent to Rijenn + Azza
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt
+  Location: /home/alex/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt
   Status: Delivered, expressing interest in both tracks
 
 - ✅ Nov 10 WhatsApp discovery conversation (3-minute exchange)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md
+  Location: /home/alex/IPS26-Dubai/rijenn-interaction-log.md
   Status: Complete, key requirements confirmed
   Key learnings: All 4 panel topics MANDATORY (no narrowing), Fortune 500/Tier-1 companies only, prestige/logo value prioritized
 
 ### 3. SPEAKER RESEARCH (FULLY COMPLETE)
 - ✅ Fortune 500 speaker candidate research COMPLETE
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md
+  Location: /home/alex/IPS26-Dubai/operations/speaker-candidates-research.md
   Status: 14 candidates identified + ranked
   Top 5 Tier-1 prospects: RJ Pittman, Erin Meezan, David Beitel, Matthias Rebellius, Nadège Petit
   Research method: Perplexity MCP + public sources
@@ -79,26 +79,26 @@ Next Critical Date: Nov 11-15 (expect Rijenn confirmation/discovery call schedul
   Date confirmed: November 10, 2025 (WhatsApp conversation)
 
 - ✅ Rijenn interaction log documented
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md
+  Location: /home/alex/IPS26-Dubai/rijenn-interaction-log.md
   Status: Complete transcript, strategic analysis, speaker archetype recommendations
 
 ### 4. STRATEGIC DOCUMENTS (COMPLETE)
 - ✅ IPS26 Strategy Playbook (complete)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md
+  Location: /home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md
   Status: Fully drafted Nov 7, all components defined
 
 - ✅ IPS26 Initial Research (complete)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md
+  Location: /home/alex/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md
   Status: Comprehensive event intelligence
 
 - ✅ Contribution Tracker updated (Nov 10)
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
+  Location: /home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
   Status: Tracks all outreach, discovery phase, speaker research
   Last update: Nov 10, 2025
 
 ### 5. NEXT-PROMPT DOCUMENT (COMPLETE)
 - ✅ Session completion status documented
-  Location: /home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT.md
+  Location: /home/alex/IPS26-Dubai/NEXT-PROMPT.md
   Status: Updated Nov 10 with all completed items and next triggers
 
 ---
@@ -172,7 +172,7 @@ What's needed:
 Next steps:
 1. Draft 5 personalized outreach emails (1 per Tier-1 prospect)
    Targets: RJ Pittman, Erin Meezan, David Beitel, Matthias Rebellius, Nadège Petit
-   Format: .txt files in /home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/
+   Format: .txt files in /home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/
    Timeline: 1 day to draft all 5
    AI detection target: <20%
 
@@ -182,7 +182,7 @@ Next steps:
    Success metric: 50% response rate (2-3 confirmations)
 
 3. Monitor confirmations
-   Track in: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
+   Track in: /home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
    Timeline: Nov 20-Dec 5
    Success metric: 5-7 confirmations by Dec 15
 
@@ -277,25 +277,25 @@ Next steps (conditional on moderator role confirmation):
 
 ### Core Strategy Documents
 - Master playbook: /home/alex/PTC26-Dubai/CLAUDE.md (parent project)
-- IPS26 Strategy Playbook: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md
-- IPS26 Contribution Tracker: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
-- This Status Log: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
+- IPS26 Strategy Playbook: /home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md
+- IPS26 Contribution Tracker: /home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
+- This Status Log: /home/alex/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
 
 ### Registration & Organizer Materials
-- Moderator bio: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/moderator-bio-final.txt
-- Registration checklist: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt
-- Passport files: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.[jpg/pdf]
-- Nov 7 sent email: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt
-- WhatsApp template: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt
+- Moderator bio: /home/alex/IPS26-Dubai/assets/registration/moderator-bio-final.txt
+- Registration checklist: /home/alex/IPS26-Dubai/assets/registration/registration-checklist-2025-11-10.txt
+- Passport files: /home/alex/IPS26-Dubai/assets/registration/Passport-Alex-Morari-IPS26.[jpg/pdf]
+- Nov 7 sent email: /home/alex/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt
+- WhatsApp template: /home/alex/IPS26-Dubai/assets/ips26-organizers/ready-to-send/rijenn-registration-confirmation-whatsapp-2025-11-10.txt
 
 ### Research & Intelligence
-- Speaker candidates research: /home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md (14 candidates, Top 5 detailed)
-- Rijenn interaction log: /home/alex/PTC26-Dubai/IPS26-Dubai/rijenn-interaction-log.md
-- Initial event research: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md
+- Speaker candidates research: /home/alex/IPS26-Dubai/operations/speaker-candidates-research.md (14 candidates, Top 5 detailed)
+- Rijenn interaction log: /home/alex/IPS26-Dubai/rijenn-interaction-log.md
+- Initial event research: /home/alex/IPS26-Dubai/IPS26-INITIAL-RESEARCH.md
 
 ### Next Steps Documentation
-- Session continuation: /home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT.md
-- This audit: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
+- Session continuation: /home/alex/IPS26-Dubai/NEXT-PROMPT.md
+- This audit: /home/alex/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
 
 ---
 
@@ -422,5 +422,5 @@ Ready to execute 1-2 day speaker outreach campaign upon Rijenn confirmation or u
 
 ---
 
-Navigation: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
+Navigation: /home/alex/IPS26-Dubai/IPS26-STATUS-LOG-2025-11-10.txt
 Last Updated: November 10, 2025, 11:38 AM CET

@@ -44,4 +44,4 @@ NEXT STEPS:
 - Review IPS26-STRATEGY-PLAYBOOK.md for call preparation
 
 ---
-Navigation: /home/alex/PTC26-Dubai/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt
+Navigation: /home/alex/IPS26-Dubai/assets/ips26-organizers/sent/rijenn-ips26-response-SENT-2025-11-07.txt

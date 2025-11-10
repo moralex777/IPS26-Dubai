@@ -62,7 +62,7 @@ Deliver 5-7 Fortune 500/Tier-1 executive speaker introductions by January 15, 20
 
 ### Tier-1 Prospects (Highest Priority - 5 candidates)
 
-**Research Source:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
+**Research Source:** `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
 
 #### 1. **RJ Pittman** (Matterport/CoStar Group)
 **Title:** VP Product, Matterport / SVP CoStar Group
@@ -183,7 +183,7 @@ Deliver 5-7 Fortune 500/Tier-1 executive speaker introductions by January 15, 20
 
 **When to Activate:** If Tier-1 confirmations < 4 by December 1, 2025
 
-**Available in:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
+**Available in:** `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
 
 **Tier-2 Candidates (Brief Overview):**
 1. Annie Dean (CBRE Group) - 75-85% acceptance
@@ -570,21 +570,21 @@ Deliver 5-7 Fortune 500/Tier-1 executive speaker introductions by January 15, 20
 ### File References & Locations
 
 **Candidate Research:**
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md` (14 candidates, detailed profiles)
+- `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md` (14 candidates, detailed profiles)
 
 **Invitation Templates:**
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/rj-pittman-matterport-ips26-invitation.txt`
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/erin-meezan-jll-ips26-invitation.txt`
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/david-beitel-zillow-ips26-invitation.txt`
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/matthias-rebellius-siemens-ips26-invitation.txt`
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/nadege-petit-schneider-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/jp-poulin-1valet-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/rj-pittman-matterport-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/erin-meezan-jll-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/david-beitel-zillow-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/matthias-rebellius-siemens-ips26-invitation.txt`
+- `/home/alex/IPS26-Dubai/assets/speaker-recruitment/ready-to-send/nadege-petit-schneider-ips26-invitation.txt`
 
 **Tracking:**
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md` (update with weekly speaker confirmations)
+- `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md` (update with weekly speaker confirmations)
 
 **Strategy Reference:**
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md` (overall event strategy)
+- `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md` (overall event strategy)
 
 ---
 
@@ -608,11 +608,11 @@ Deliver 5-7 Fortune 500/Tier-1 executive speaker introductions by January 15, 20
 ---
 
 **Navigation:**
-- **Full Agenda:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md`
-- **JSON Agenda:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/ips26-agenda-2026.json`
-- **Speaker Research:** `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/speaker-candidates-research.md`
-- **Strategy Playbook:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
-- **Contribution Tracker:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- **Full Agenda:** `/home/alex/IPS26-Dubai/IPS26-AGENDA-FULL-2026.md`
+- **JSON Agenda:** `/home/alex/IPS26-Dubai/operations/ips26-agenda-2026.json`
+- **Speaker Research:** `/home/alex/IPS26-Dubai/operations/speaker-candidates-research.md`
+- **Strategy Playbook:** `/home/alex/IPS26-Dubai/IPS26-STRATEGY-PLAYBOOK.md`
+- **Contribution Tracker:** `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
 
 **Document Status:** Complete | Ready for Active Campaign Execution
 **Created:** November 10, 2025

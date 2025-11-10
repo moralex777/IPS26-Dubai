@@ -19,7 +19,7 @@
 ## INPUT SOURCES
 
 **Required Files:**
-- `/home/alex/PTC26-Dubai/IPS26-Dubai/[file-path]`
+- `/home/alex/IPS26-Dubai/[file-path]`
 - [Additional files or data sources]
 
 **External Sources:**
@@ -72,7 +72,7 @@
 `[task-name]-results-YYYY-MM-DD.[ext]`
 
 **Delivery Location:**
-`/home/alex/PTC26-Dubai/IPS26-Dubai/manus-outputs/[category]/[filename]`
+`/home/alex/IPS26-Dubai/manus-outputs/[category]/[filename]`
 
 ---
 
@@ -142,6 +142,6 @@
 ---
 
 **Navigation:**
-- Task specs: `/home/alex/PTC26-Dubai/IPS26-Dubai/manus-tasks/`
-- Outputs: `/home/alex/PTC26-Dubai/IPS26-Dubai/manus-outputs/`
-- Integration tracking: `/home/alex/PTC26-Dubai/IPS26-Dubai/operations/manus-integration/`
+- Task specs: `/home/alex/IPS26-Dubai/manus-tasks/`
+- Outputs: `/home/alex/IPS26-Dubai/manus-outputs/`
+- Integration tracking: `/home/alex/IPS26-Dubai/operations/manus-integration/`

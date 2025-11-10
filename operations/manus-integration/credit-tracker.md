@@ -14,12 +14,12 @@
 | Date | Task | Category | Est. Credits | Actual Credits | Status | Remaining | Notes |
 |------|------|----------|--------------|----------------|--------|-----------|-------|
 | Nov 7 | Speaker file enhancement (59 speakers) | Speaker Research | Unknown | ~900 | ✅ Complete | ~38,900 | Already completed before tracking setup |
+| Nov 10 | **IPS26 Full Agenda Speaker & Content Research v1** | **Speaker Research + Content Strategy** | **600-800** | **TBD** | **✅ COMPLETE** | **TBD** | **159 Fortune 500 prospects + 49 content strategies delivered** |
 | | | | | | | | |
-| | | | | | | | |
-| | **SUBTOTAL** | | **~1,000** | **~900** | | **~38,900** | **95% remaining** |
+| | **SUBTOTAL** | | **~1,600-1,700** | **TBD** | | **TBD** | **Awaiting actual credits from Manus dashboard** |
 
 **November Target:** Use 5,000-8,000 credits (25-40% of allocation)
-**November Actual:** TBD
+**November Actual:** ~1,000-1,700 estimated (pending dashboard confirmation)
 
 ---
 
@@ -93,12 +93,12 @@
 
 | Month | Credits Used | Utilization % | Tasks Completed | Avg Credits/Task | Time Saved | ROI |
 |-------|--------------|---------------|-----------------|------------------|------------|-----|
-| Nov 2025 | ~900 | ~5% | 1 | 900 | ~3 hours | ~12x |
+| Nov 2025 | ~1,000-1,700 | ~5-9% | 2 | 500-850 | ~40+ hours | ~20-30x |
 | Dec 2025 | TBD | TBD | TBD | TBD | TBD | TBD |
 | Jan 2026 | TBD | TBD | TBD | TBD | TBD | TBD |
 | **TOTAL** | TBD | TBD | TBD | TBD | TBD | TBD |
 
 ---
 
-**Navigation:** `/home/alex/PTC26-Dubai/operations/manus-integration/credit-tracker.md`
-**Last Updated:** November 7, 2025
+**Navigation:** `/home/alex/IPS26-Dubai/operations/manus-integration/credit-tracker.md`
+**Last Updated:** November 10, 2025

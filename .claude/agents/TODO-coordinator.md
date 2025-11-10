@@ -53,7 +53,7 @@ git log -1 --oneline --format="%s"
 5. IF STILL UNCLEAR: Ask Alex explicitly
 6. IDENTIFY primary tracker:
    - PTC26: /home/alex/PTC26-Dubai/PTC26-CONTRIBUTION-TRACKER.md
-   - IPS26: /home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
+   - IPS26: /home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md
 7. PULL priorities from the active tracker ONLY
 ```
 
@@ -110,7 +110,7 @@ If working in /home/alex/IPS26-Dubai/:
   → Reference IPS26 files, trackers, agents
   → Treat IPS26 as main project
 
-If working in /home/alex/PTC26-Dubai/:
+If working in /home/alex/IPS26-Dubai/:
   → Focus on PTC26 context (secondary, learning from IPS26)
   → Reference PTC26 files, trackers, agents
   → Can reference IPS26 learnings as reference patterns
@@ -262,7 +262,7 @@ Timeline: [Estimated duration]
 - Moderator Slot (confirmation status)
 
 ### IPS26 Tracker
-**File:** `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+**File:** `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
 **Sections:**
 - Speaker Recruitment (target: 5-7 confirmations)
 - Fortune 500 Outreach (Rijenn pipeline)
@@ -458,11 +458,11 @@ If decision point reached:
 
 **Navigation References:**
 - PTC26 Tracker: `/home/alex/PTC26-Dubai/PTC26-CONTRIBUTION-TRACKER.md`
-- IPS26 Tracker: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
+- IPS26 Tracker: `/home/alex/IPS26-Dubai/IPS26-CONTRIBUTION-TRACKER.md`
 - PTC26 Action Plan: `/home/alex/PTC26-Dubai/PTC26-ACTION-PLAN-EXECUTION.md`
-- IPS26 Action Plan: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
-- NEXT-PROMPT (PTC26): `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
-- Agent files: `/home/alex/PTC26-Dubai/.claude/agents/`
+- IPS26 Action Plan: `/home/alex/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
+- NEXT-PROMPT (PTC26): `/home/alex/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
+- Agent files: `/home/alex/IPS26-Dubai/.claude/agents/`
 
 ---
 
