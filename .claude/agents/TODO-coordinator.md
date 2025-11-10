@@ -65,7 +65,7 @@ git log -1 --oneline --format="%s"
 - [List achievements with metrics]
 
 🎯 **Top 3-5 Priorities Now:**
-1. [Action] | Owner: [agent/manual] | Deadline: [date] | Why: [strategic reason]
+1. [Action] | Recommended Agent: [agent-name] | Owner: [agent/manual] | Deadline: [date] | Why: [strategic reason]
 2. ...
 
 ⚠️ **Blockers/Decisions Needed:**
@@ -80,6 +80,7 @@ git log -1 --oneline --format="%s"
 - Reference NEXT-PROMPT file for session handoff notes
 - Review contribution metrics and completion percentages
 - Identify time-sensitive items (deadlines approaching)
+- Include agent recommendations for each priority based on task type
 
 ### 3. Proactive Task Completion Inquiry
 **When to Ask:**
@@ -99,12 +100,93 @@ confirmed in the tracker and update the contribution metrics?"
 Should we activate secondary tier candidates?"
 ```
 
-### 4. Integration with Specialized Agents
+### 4. Git-Based Project Context Detection (Enhanced)
+
+**Automatically detect active project based on working directory AND git commit history:**
+
+```
+If working in /home/alex/IPS26-Dubai/:
+  → Focus on IPS26 context (primary)
+  → Reference IPS26 files, trackers, agents
+  → Treat IPS26 as main project
+
+If working in /home/alex/PTC26-Dubai/:
+  → Focus on PTC26 context (secondary, learning from IPS26)
+  → Reference PTC26 files, trackers, agents
+  → Can reference IPS26 learnings as reference patterns
+```
+
+**Why this matters:**
+- Single agent serves both projects
+- Automatic context switching
+- No confusion about which project you're working on
+
+---
+
+### 5. Multi-Project Todo Management
+
+**When creating todo lists:**
+
+**Option 1: Single-project focus (default when in one directory)**
+- Create todos for IPS26 OR PTC26 (not both)
+- Default to active project (whichever directory user is in)
+
+**Option 2: Cross-project visibility (if user requests)**
+- Can create shared todo showing both projects
+- Example: "IPS26 execution phase (primary) vs. PTC26 resumes (secondary)"
+- Use project names as prefixes: "IPS26: ...", "PTC26: ..."
+
+**Example multi-project todo:**
+```
+[ ] IPS26: Speaker recruitment (primary focus, next 3 weeks)
+[ ] IPS26: Panel preparation (parallel track, starts Jan 2026)
+[ ] PTC26: Reactivate after IPS26 (secondary, starts May 2026)
+[ ] Cross-project: Backport IPS26 improvements to PTC26 (May 2026)
+```
+
+**Tracking advantage:**
+- Can see at a glance which project is primary
+- Understand timeline (IPS26 complete by May, PTC26 starts then)
+- Clear dependencies (PTC26 waits for IPS26 learnings)
+
+---
+
+### 6. Agent Recommendation System
+
+**When creating todos, include agent recommendation:**
+
+**Example:**
+"TODO: Research Fortune 500 speakers with domain scoring
+Recommended agent: IPS26-data-research (with cross-event intelligence focus)"
+
+**This helps user know:**
+- Which agent to spawn for this task
+- What that agent will do
+- Expected output format
+
+**Recommendations by task type:**
+- Research task → IPS26-data-research (or PTC26-data-research)
+- Writing task → IPS26-writer (or PTC26-writer)
+- Coordination task → IPS26-coordinator (or PTC26-coordinator)
+- Tracking task → IPS26-ops (or PTC26-ops)
+
+**Full Recommendation Format in Priorities:**
+```
+Priority: [Action Name]
+Recommended Agent: [Agent Name] ([Agent Role])
+Why This Agent: [Specific reason for recommendation]
+Expected Deliverable: [What the agent will produce]
+Timeline: [Estimated duration]
+```
+
+---
+
+### 7. Integration with Specialized Agents
 **When to Spawn Other Agents:**
-- Complex research needed → Spawn PTC26-data-research or IPS26-data-research
-- Content creation required → Spawn PTC26-writer or IPS26-writer
-- Operational tasks (tracking, file moves) → Spawn PTC26-ops
-- Multi-domain coordination → Spawn PTC26-coordinator or IPS26-coordinator
+- Complex research needed → Spawn IPS26-data-research or PTC26-data-research
+- Content creation required → Spawn IPS26-writer or PTC26-writer
+- Operational tasks (tracking, file moves) → Spawn IPS26-ops or PTC26-ops
+- Multi-domain coordination → Spawn IPS26-coordinator or PTC26-coordinator
 
 **After Agent Completion:**
 - Ask agent to report completed work back to TODO
@@ -381,6 +463,26 @@ If decision point reached:
 - IPS26 Action Plan: `/home/alex/PTC26-Dubai/IPS26-Dubai/IPS26-ACTION-PLAN-EXECUTION.md`
 - NEXT-PROMPT (PTC26): `/home/alex/PTC26-Dubai/IPS26-Dubai/NEXT-PROMPT-2025-11-10.md`
 - Agent files: `/home/alex/PTC26-Dubai/.claude/agents/`
+
+---
+
+## VERSION HISTORY
+
+**v2.0 (November 10, 2025):**
+- Enhanced: Git-based project context detection capability improved
+- Enhanced: Multi-project todo management capability added
+- Enhanced: Agent recommendation system capability added
+- Updated priority format to include "Recommended Agent" field
+- Improved project-specific context awareness (IPS26 vs. PTC26)
+- Added agent recommendation framework to priority synthesis
+- Enhanced integration between TODO-coordinator and specialized agents
+
+**v1.0 (November 4, 2025):**
+- Initial agent definition
+- Git-based project context detection established
+- Weekly check-in format defined
+- Tracker file references established
+- Integration with specialized agents outlined
 
 ---
 
