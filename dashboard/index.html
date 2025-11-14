@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Executive Dashboard - IPS26 Dubai 2026</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .hero {
+            background: linear-gradient(135deg, var(--navy) 0%, #1e3a5f 100%);
+            color: white;
+            padding: 50px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 15px;
+        }
+
+        .hero-subtitle {
+            font-size: 1.3rem;
+            opacity: 0.9;
+            margin-bottom: 30px;
+        }
+
+        .hero-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .hero-metric {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 8px;
+            backdrop-filter: blur(10px);
+        }
+
+        .hero-metric-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin-bottom: 8px;
+        }
+
+        .hero-metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--gold);
+        }
+
+        .hero-metric-subtext {
+            font-size: 0.8rem;
+            opacity: 0.7;
+            margin-top: 5px;
+        }
+
+        .countdown-big {
+            text-align: center;
+            padding: 40px;
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 30px;
+        }
+
+        .countdown-number {
+            font-size: 5rem;
+            font-weight: 700;
+            color: var(--navy);
+            line-height: 1;
+        }
+
+        .countdown-label {
+            font-size: 1.2rem;
+            color: var(--text-light);
+            margin-top: 10px;
+        }
+
+        .alert-box {
+            background: #fef3c7;
+            border-left: 4px solid var(--yellow);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .alert-box.urgent {
+            background: #fee2e2;
+            border-left-color: var(--red);
+        }
+
+        .alert-box.success {
+            background: #d1fae5;
+            border-left-color: var(--green);
+        }
+
+        .alert-title {
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+
+        .quick-link-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .quick-link-card {
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            padding: 25px;
+            text-decoration: none;
+            color: var(--text-dark);
+            transition: all 0.3s;
+            display: block;
+        }
+
+        .quick-link-card:hover {
+            border-color: var(--gold);
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(245, 158, 11, 0.2);
+        }
+
+        .quick-link-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+
+        .quick-link-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--navy);
+            margin-bottom: 10px;
+        }
+
+        .quick-link-desc {
+            font-size: 0.9rem;
+            color: var(--text-light);
+            margin-bottom: 15px;
+        }
+
+        .quick-link-action {
+            color: var(--gold);
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .status-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .status-card {
+            border-left: 4px solid;
+            padding: 20px;
+            border-radius: 8px;
+            background: white;
+        }
+
+        .status-card.completed {
+            border-left-color: var(--green);
+            background: #f0fdf4;
+        }
+
+        .status-card.urgent {
+            border-left-color: var(--red);
+            background: #fef2f2;
+        }
+
+        .status-card.pending {
+            border-left-color: var(--yellow);
+            background: #fffbeb;
+        }
+
+        .status-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .status-desc {
+            font-size: 0.9rem;
+            color: var(--text-dark);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="top-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">🏛️ IPS26 DUBAI 2026</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link active">Dashboard</a>
+                <a href="panels.html" class="nav-link">Panels</a>
+                <a href="speakers.html" class="nav-link">Speakers</a>
+                <a href="value.html" class="nav-link">Value</a>
+                <a href="communications.html" class="nav-link">Comms</a>
+                <a href="timeline.html" class="nav-link">Timeline</a>
+                <a href="event.html" class="nav-link">Event</a>
+                <a href="resources.html" class="nav-link">Resources</a>
+            </div>
+            <div class="nav-metrics">
+                <div class="nav-metric">
+                    <span>⏰</span>
+                    <span class="nav-metric-value" id="navDays">150</span> Days
+                </div>
+                <div class="nav-metric">
+                    <span>🎯</span>
+                    <span class="nav-metric-value">0/5-7</span> Speakers
+                </div>
+                <div class="nav-metric">
+                    <span>💰</span>
+                    <span class="nav-metric-value">€0K/€120K</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- Hero Section -->
+        <div class="hero">
+            <h1>🏛️ Project Command Center</h1>
+            <div class="hero-subtitle">IPS Congress 2026 · Dubai World Trade Centre · April 13-15, 2026</div>
+
+            <div class="hero-metrics">
+                <div class="hero-metric">
+                    <div class="hero-metric-label">Status</div>
+                    <div class="hero-metric-value">Phase 3</div>
+                    <div class="hero-metric-subtext">✓ Moderator Confirmed</div>
+                </div>
+                <div class="hero-metric">
+                    <div class="hero-metric-label">Days to Event</div>
+                    <div class="hero-metric-value" id="heroDays">150</div>
+                    <div class="hero-metric-subtext">Active Execution</div>
+                </div>
+                <div class="hero-metric">
+                    <div class="hero-metric-label">Speaker Confirmations</div>
+                    <div class="hero-metric-value">0/5-7</div>
+                    <div class="hero-metric-subtext">Ready to Launch</div>
+                </div>
+                <div class="hero-metric">
+                    <div class="hero-metric-label">Value Delivered</div>
+                    <div class="hero-metric-value">0%</div>
+                    <div class="hero-metric-subtext">Target: €120-130K</div>
+                </div>
+                <div class="hero-metric">
+                    <div class="hero-metric-label">Communications</div>
+                    <div class="hero-metric-value">11</div>
+                    <div class="hero-metric-subtext">Ready to Send</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Alerts -->
+        <div class="alert-box success">
+            <div class="alert-title">✓ MODERATOR CONFIRMED!</div>
+            <div>Organizers confirmed your moderator role and suggested selecting 1-3 panels. Choose between concentrating all on one day or spreading across the event.</div>
+        </div>
+
+        <div class="alert-box urgent">
+            <div class="alert-title">⚡ URGENT ACTION REQUIRED</div>
+            <div><strong>Panel Selection:</strong> Visit the Panel Selection page to choose your 1-3 moderation slots. Consider strategy: one-day concentration vs. multi-day presence.</div>
+        </div>
+
+        <div class="alert-box">
+            <div class="alert-title">📅 Next Milestone: Nov 15-30</div>
+            <div><strong>Speaker Outreach Launch:</strong> After panel selection, launch Tier-1 speaker invitations (5 Fortune 500 prospects identified and ready).</div>
+        </div>
+
+        <!-- Status Overview -->
+        <div class="section">
+            <div class="section-header">
+                <h2>📊 Project Status Overview</h2>
+            </div>
+
+            <div class="status-grid">
+                <div class="status-card completed">
+                    <div class="status-title">✓ Registration Complete</div>
+                    <div class="status-desc">Both tracks registered (Nov 10). Panel Moderator + Boardroom Moderator roles confirmed.</div>
+                </div>
+
+                <div class="status-card completed">
+                    <div class="status-title">✓ Speaker Research Complete</div>
+                    <div class="status-desc">14 Fortune 500 candidates identified. Tier 1: 5 high-priority prospects (70-85% acceptance).</div>
+                </div>
+
+                <div class="status-card completed">
+                    <div class="status-title">✓ Moderator Confirmed</div>
+                    <div class="status-desc">Organizers confirmed moderation role (Nov 14). Panel selection in progress.</div>
+                </div>
+
+                <div class="status-card urgent">
+                    <div class="status-title">🔥 Panel Selection</div>
+                    <div class="status-desc">TODAY: Select 1-3 panels from Main Conference or Institutional Investor tracks.</div>
+                </div>
+
+                <div class="status-card pending">
+                    <div class="status-title">⏳ Speaker Outreach</div>
+                    <div class="status-desc">Target: Nov 15-30. Launch invitations to 5 Tier-1 prospects after panel selection.</div>
+                </div>
+
+                <div class="status-card pending">
+                    <div class="status-title">⏳ Media Partnership</div>
+                    <div class="status-desc">RealTimes proposal ready. Deploy after speaker recruitment success.</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="section">
+            <div class="section-header">
+                <h2>🚀 Quick Access</h2>
+            </div>
+
+            <div class="quick-link-grid">
+                <a href="panels.html" class="quick-link-card">
+                    <div class="quick-link-icon">🎯</div>
+                    <div class="quick-link-title">Panel Selection Tool</div>
+                    <div class="quick-link-desc">Select your 1-3 moderation panels. Full agenda with strategic analysis and fit scoring.</div>
+                    <div class="quick-link-action">Select Panels →</div>
+                </a>
+
+                <a href="speakers.html" class="quick-link-card">
+                    <div class="quick-link-icon">🎤</div>
+                    <div class="quick-link-title">Speaker Pipeline</div>
+                    <div class="quick-link-desc">14 Fortune 500 candidates identified. Tier 1: 5 prospects with 70-85% acceptance rates.</div>
+                    <div class="quick-link-action">View Speakers →</div>
+                </a>
+
+                <a href="value.html" class="quick-link-card">
+                    <div class="quick-link-icon">💎</div>
+                    <div class="quick-link-title">Value Tracker</div>
+                    <div class="quick-link-desc">Track €120-130K value delivery across 5 components. Current: 0% baseline (ready to execute).</div>
+                    <div class="quick-link-action">View Progress →</div>
+                </a>
+
+                <a href="communications.html" class="quick-link-card">
+                    <div class="quick-link-icon">📬</div>
+                    <div class="quick-link-title">Communications</div>
+                    <div class="quick-link-desc">11 communications ready to send: 7 speaker invitations, 3 organizer messages, 1 meeting coordination.</div>
+                    <div class="quick-link-action">View Queue →</div>
+                </a>
+
+                <a href="timeline.html" class="quick-link-card">
+                    <div class="quick-link-icon">📅</div>
+                    <div class="quick-link-title">Timeline & Milestones</div>
+                    <div class="quick-link-desc">Full project timeline with critical checkpoints. Next deadline: Speaker outreach Nov 15-30.</div>
+                    <div class="quick-link-action">View Timeline →</div>
+                </a>
+
+                <a href="event.html" class="quick-link-card">
+                    <div class="quick-link-icon">🏛️</div>
+                    <div class="quick-link-title">Event Intelligence</div>
+                    <div class="quick-link-desc">Complete 3-day agenda (34 sessions). 40,000+ visitors, 153 countries, 150+ media.</div>
+                    <div class="quick-link-action">View Agenda →</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Key Metrics Summary -->
+        <div class="section">
+            <div class="section-header">
+                <h2>📈 Key Metrics at a Glance</h2>
+            </div>
+
+            <div class="grid-3">
+                <div class="card">
+                    <div class="card-title" style="color: var(--green);">✓ Completed</div>
+                    <ul class="list-none" style="font-size: 0.9rem; color: var(--text-dark);">
+                        <li class="list-item">Registration (both tracks)</li>
+                        <li class="list-item">Speaker research (14 candidates)</li>
+                        <li class="list-item">Moderator confirmation</li>
+                        <li class="list-item">Manus AI research (159 prospects)</li>
+                        <li class="list-item">Infrastructure setup (100%)</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-title" style="color: var(--red);">🔥 Urgent</div>
+                    <ul class="list-none" style="font-size: 0.9rem; color: var(--text-dark);">
+                        <li class="list-item">Panel selection (TODAY)</li>
+                        <li class="list-item">Speaker outreach prep (Nov 15)</li>
+                        <li class="list-item">Panel strategy decision</li>
+                        <li class="list-item">Communication templates review</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-title" style="color: var(--yellow);">⏳ Upcoming</div>
+                    <ul class="list-none" style="font-size: 0.9rem; color: var(--text-dark);">
+                        <li class="list-item">Speaker invitations (Nov 15-30)</li>
+                        <li class="list-item">First confirmations (Dec 1)</li>
+                        <li class="list-item">Panel locked (Dec 15)</li>
+                        <li class="list-item">5-7 speakers confirmed (Jan 15)</li>
+                        <li class="list-item">Event execution (Apr 13-15)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div style="text-align: center; padding: 40px 0; color: var(--text-light); font-size: 0.9rem;">
+            <p>IPS26 Dubai 2026 Project Dashboard · Last Updated: Nov 14, 2025</p>
+            <p style="margin-top: 10px;">
+                Phase 3: Active Execution · Moderator Confirmed · 150 Days to Event
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Update countdown
+        function updateCountdown() {
+            const eventDate = new Date('2026-04-13');
+            const today = new Date();
+            const diffTime = eventDate - today;
+            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+            const heroDays = document.getElementById('heroDays');
+            const navDays = document.getElementById('navDays');
+
+            if (heroDays) heroDays.textContent = diffDays;
+            if (navDays) navDays.textContent = diffDays;
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 60000); // Update every minute
+    </script>
+</body>
+</html>
